@@ -1,0 +1,6 @@
+1. Vegetables
+2. Fruits
+3. Milk
+4. Bread
+5. Snacks
+6. Cereal
